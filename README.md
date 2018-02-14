@@ -5,3 +5,4 @@
 •	Published a paper in IJTRA Journal, which gave an overview how logistic regression can be used to predict future.
 •	Published a paper in ICIATE Conference 2017 which described an efficient algorithm to generate coefficients of Logistic Regression Model.  
 • IJTRA Paper Link: http://www.ijtra.com/view/logistic-regression-analysis-as-a-future-predictor.pdf
+• ICIATE Paper updated in folder
