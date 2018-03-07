@@ -1,6 +1,6 @@
 # Placement-Prediction-Project
 
-•	Project Link: http://placement-prediction.herokuapp.com/Student
+•	Live Working Project Demo is present at: http://placement-prediction.herokuapp.com/Student
 
 •	Implemented in J2EE Technology, this Web application determined the chances of a student getting placed during the On-Campus Placement Drive, using parameters like GPA, Technical knowledge among others
 
